@@ -1,8 +1,8 @@
 void main(){
     // membaut variabel dengan tipe data
-    String nama = "Dinda Mianza";
-    int umur = 19;
-    double tinggi = 160;
+    String nama = "Endah Nurcayanti";
+    int umur = 20;
+    double tinggi = 157;
     bool isMenikah = false;
 
     // membuat veriabel dengan kata kunci var
