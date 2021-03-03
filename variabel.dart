@@ -1,12 +1,15 @@
-void main() {
-  String nama = "Dian";
-  int umur = 23;
-  double tinggi = 180.43;
-  bool isMenikah = false;
+void main(){
+    // membaut variabel dengan tipe data
+    String nama = "Dinda Mianza";
+    int umur = 19;
+    double tinggi = 160;
+    bool isMenikah = false;
 
-  var alamat = "Lombok, Indonesia";
+    // membuat veriabel dengan kata kunci var
+    var alamat = "Medan, Indonesia";
 
-  print("Nama saya $nama. Umur $umur tahun. Tinggi sekitar $tinggi cm.");
-  print("Menikah: $isMenikah");
-  print("Alamat : $alamat");
+    // mencetak variabel
+    print("Nama saya $nama. Umur $umur tahun. Tinggi sekitar $tinggi cm.");
+    print("Menikah: $isMenikah");
+    print("Alamat: $alamat");
 }
